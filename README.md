@@ -1,0 +1,3 @@
+# Swift Reduce Function with Empty Arrays
+
+This repository demonstrates an edge case in Swift's `reduce` function. When applied to an empty array with a non-zero initial value, the behavior might be unexpected for those unfamiliar with the function's implementation.  The example illustrates both the expected behavior (with a zero initial value) and the potentially surprising result when using a non-zero initial value. The solution offers a more robust approach.
